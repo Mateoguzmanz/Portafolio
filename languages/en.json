@@ -1,0 +1,24 @@
+{
+    "profile": {
+        "role": "Front-end Developer",
+        "description": "I am a person passionate about project development and constant learning, I stand out for my commitment and my ability to work in a team, as well as problem solving skills."
+    },
+    "experience": {
+        "first-job-title" : "Development Analyst",
+        "first-job-dates" : "June 2022 - May 2023",
+        "first-job-description-uno": "Development and implementation of an application for the distribution of distribution of canine products, leading a development team from the development team from conception to production.",
+        "first-job-description-dos": "Development and implementation of an interface for a financial cooperative, fulfilling the financial cooperative, complying with the development phases, such as planning such as planning, analysis, implementation. Up to its in production.",
+        "first-job-description-tres": "Identification and resolution of bugs generated in the production environment. production environment.",
+        "second-job-title" : "Software engineer",
+        "second-job-dates" : " July 2023 - January 2024",
+        "second-job-description-uno": "Research and documentation for APIS implementation provided by IBM",
+        "second-job-description-dos": "Led the development using BASH for business process automation business processes, improving efficiency and reducing operational operational times.",
+        "second-job-description-tres": "Compliance with development as a fullstack developer in the team for a user team for a user management application from the design to the testing environment. design part to the testing environment."
+    },
+    "projects" : {
+        "first-project-title" : "Blackjack",
+        "first-project-description" : "Welcome to 'Blackjack on the Web', an exciting project that immerses you in the classic Blackjack card game experience directly from your browser. This project combines the fundamental web technologies: HTML, CSS and JavaScript, to deliver an interactive and engaging gaming experience."
+        
+    }
+
+}
