@@ -23,8 +23,10 @@
         "first-project-description" : "Welcome to 'Blackjack on the Web', an exciting project that immerses you in the classic Blackjack card game experience directly from your browser. This project combines the fundamental web technologies: HTML, CSS and JavaScript, to deliver an interactive and engaging gaming experience.",
         "second-project-title": "GifApps",
         "second-project-description":"Explore visual fun with our 'Gifs App' project, a dynamic web application that uses the powerful Angular framework to offer a rich and easy-to-use GIF search and discovery experience.",
-        "third-project-title": "login",
-        "third-project-description":"Welcome to our Angular and MongoDB Authentication System project, a robust and secure solution that uses modern Angular and MongoDB technologies to manage the login process efficiently."
+        "third-project-title": "Login",
+        "third-project-description":"Welcome to our Angular and MongoDB Authentication System project, a robust and secure solution that uses modern Angular and MongoDB technologies to manage the login process efficiently.",
+        "fourth-project-title": "Calculator",
+        "fourth-project-description":"Welcome to Interactive Calculator with JavaScript, a project designed to provide you with a versatile and easy-to-use calculation tool! This application allows you to perform mathematical operations quickly and efficiently directly from your browser, thanks to the power of JavaScript."
     }
 
 }
